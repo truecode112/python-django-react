@@ -1,4 +1,4 @@
-# Reactify-Django
+# Python-Django-React
 Integrating React library for the frontend with the Django backend
 
 ## Installation
